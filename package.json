@@ -1,0 +1,11 @@
+{
+  "name": "node-erp",
+  "version": "1.0.0",
+  "description": "An ERP system built with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Saumya Darne",
+  "license": "ISC"
+}
